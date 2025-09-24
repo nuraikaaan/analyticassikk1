@@ -68,6 +68,9 @@ Metrics confirm logarithmic depth and near-linear comparison growth. The strip s
 
 ![Снимок экрана 2025-09-24 в 2.52.08 PM.png](../../../../../../var/folders/f7/ychrrnl9023ddnbh8kj2_ww00000gn/T/TemporaryItems/NSIRD_screencaptureui_hycrEX/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-24%20%D0%B2%202.52.08%E2%80%AFPM.png)
 
+<img width="469" height="442" alt="Снимок экрана 2025-09-24 в 3 34 13 PM" src="https://github.com/user-attachments/assets/c4a647d1-ff02-4012-a060-d5c782b71839" />
+
+
 1. QuickSort shows deeper recursion but fewer allocations due to in-place sorting.
 
 2. Select behaves linearly but with higher constants due to its deterministic pivot strategy.
