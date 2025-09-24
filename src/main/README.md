@@ -66,7 +66,6 @@ Metrics confirm logarithmic depth and near-linear comparison growth. The strip s
 3. n vs allocations — highlights memory usage, especially for MergeSort and Select. 
 
 
-![Снимок экрана 2025-09-24 в 2.52.08 PM.png](../../../../../../var/folders/f7/ychrrnl9023ddnbh8kj2_ww00000gn/T/TemporaryItems/NSIRD_screencaptureui_hycrEX/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-24%20%D0%B2%202.52.08%E2%80%AFPM.png)
 
 <img width="469" height="442" alt="Снимок экрана 2025-09-24 в 3 34 13 PM" src="https://github.com/user-attachments/assets/c4a647d1-ff02-4012-a060-d5c782b71839" />
 
@@ -102,4 +101,5 @@ Each algorithm has its own test class:
 2. QuickSortTest 
 3. SelectTest 
 4. ClosestPairTest
- ![Снимок экрана 2025-09-24 в 3.27.00 PM.png](../../../../../../var/folders/f7/ychrrnl9023ddnbh8kj2_ww00000gn/T/TemporaryItems/NSIRD_screencaptureui_YZy3lp/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-24%20%D0%B2%203.27.00%E2%80%AFPM.png)
+
+<img width="629" height="181" alt="Снимок экрана 2025-09-24 в 3 34 56 PM" src="https://github.com/user-attachments/assets/8930620a-f9c6-44bb-9ec2-aec5d795c88a" />
